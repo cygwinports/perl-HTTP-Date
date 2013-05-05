@@ -1,0 +1,10 @@
+CPAN_AUTHOR="gaas"
+inherit perl
+
+NAME="perl-HTTP-Date"
+VERSION=6.02
+RELEASE=1
+CATEGORY="Perl"
+SUMMARY="HTTP date conversion module for Perl"
+DESCRIPTION="This module provides functions that deal the date formats used by
+the HTTP protocol (and then some more)."
